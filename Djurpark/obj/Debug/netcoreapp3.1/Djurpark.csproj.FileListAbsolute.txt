@@ -1,0 +1,13 @@
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\bin\Debug\netcoreapp3.1\Djurpark.exe
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\bin\Debug\netcoreapp3.1\Djurpark.deps.json
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\bin\Debug\netcoreapp3.1\Djurpark.runtimeconfig.json
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\bin\Debug\netcoreapp3.1\Djurpark.runtimeconfig.dev.json
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\bin\Debug\netcoreapp3.1\Djurpark.dll
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\bin\Debug\netcoreapp3.1\Djurpark.pdb
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\obj\Debug\netcoreapp3.1\Djurpark.csprojAssemblyReference.cache
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\obj\Debug\netcoreapp3.1\Djurpark.csproj.CoreCompileInputs.cache
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\obj\Debug\netcoreapp3.1\Djurpark.AssemblyInfoInputs.cache
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\obj\Debug\netcoreapp3.1\Djurpark.AssemblyInfo.cs
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\obj\Debug\netcoreapp3.1\Djurpark.dll
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\obj\Debug\netcoreapp3.1\Djurpark.pdb
+C:\Users\Cingo\source\repos\Djurpark\Djurpark\obj\Debug\netcoreapp3.1\Djurpark.genruntimeconfig.cache
